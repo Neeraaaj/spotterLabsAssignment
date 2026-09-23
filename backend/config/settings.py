@@ -58,6 +58,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",   # Vite default port
+    "https://spotterlabsassignment.onrender.com/"
 ]
 
 ROOT_URLCONF = 'config.urls'
