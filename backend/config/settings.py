@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-8gt5y_wuw9rnibe0z(^m&5((hg3=ed22x2s4mr07e5=2g3qrtu
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "https://spotterlabsassignment.onrender.com/"
+    "spotterlabsassignment.onrender.com"
 ]
 
 
